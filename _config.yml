@@ -28,6 +28,8 @@ github_username:  Baza207
 # General
 timezone: Europe/Stockholm
 
+# Defaults
+permalink: /:year/:title # changed to match my MiddleMan blog
 defaults:
     -
         scope:
