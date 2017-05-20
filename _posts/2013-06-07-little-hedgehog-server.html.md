@@ -24,7 +24,7 @@ The language in this case was Python and after going through the tutorials on <a
 
 About a month ago I decided I wanted to start looking into making myself a multiplayer server. I've been picking a few similar topics lately in an attempt to increase my knowledge in different areas and start creating the building blocks to make my own game engine/framework, or at least a group of frameworks that I can use in future games I develop.
 
-READMORE
+<!-- READMORE -->
 
 So here was a really good project to hone my Python skills on as it would need to include things like sockets and constantly running server programs. So as always I did an initial Google search and found some very useful tutorials such as one on the <a title="Ray Wenderlich Link" href="http://www.raywenderlich.com/3932/how-to-create-a-socket-based-iphone-app-and-server" target="_blank">Ray Wenderlich</a> site which used the Twisted framework for dealing with sockets and clients. This seemed a nice way of doing it, so I started having a play around.
 

@@ -23,8 +23,8 @@ layout: home
     </header>
 
     <div class="p-summary" id="article-content">
-        {% if post.content contains "READMORE" %}
-            {{ post.content | split:"READMORE" | first }}
+        {% if post.content contains "<!-- READMORE -->" %}
+            {{ post.content | split:"<!-- READMORE -->" | first }}
         {% else %}
             {{ post.excerpt }}
         {% endif %}

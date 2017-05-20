@@ -20,7 +20,7 @@ Swift has made me very excited. It's the most excited I've got about coding sinc
 
 With that in mind, the majority of what I'm going to write about will assume that you have some previous coding knowledge, mainly in Obj-C. If you're a complete beginner, some guides for you will be coming out by someone (I might try some myself) when Swift comes out properly later this year.
 
-READMORE
+<!-- READMORE -->
 
 I said Swift will _eventually_ replace Objective-C. This is **not** something that is going to happen overnight. Far from it. Apple has even said in their WWDC sessions that they are not expecting Swift to be an instant replacement to Obj-C, nor should it be thought of in that way. So you don't have to worry about re-writing all of your Obj-C apps, they'll continue to work just as they always have. What Apple has done those is given us as developers the tools to easily use Swift and Obj-C classes and frameworks seamlessly together, with little or no hassle.
 

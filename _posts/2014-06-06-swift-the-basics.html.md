@@ -23,7 +23,7 @@ println("\(greeting)")
 
 So in this simple code snippet you can instantly see some differences compared to the normal Obj-C code you might be used to. For starters their aren't any semicolons `;`. You just don't need semicolons in Swift. You can use them if you want, but they're not required (unless in specific circumstances).
 
-READMORE
+<!-- READMORE -->
 
 ### var and let
 

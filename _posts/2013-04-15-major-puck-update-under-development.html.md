@@ -19,7 +19,7 @@ We're nearing the end of the Elitserian season and the first season for Puck. It
 
 I have been planning to add more Hockey Leagues into the app for a while now and doing so would have meant a crowded experience with the current UI. So I decided to get rid of the tab bar and use a sidebar, similar to the current Facebook and Wunderlist apps use. This allows more space to add features and leagues for the user to choose while having the added bonus of freeing up the screen where the tab bar used to be. Here's a sneak peek of how it's looking at the moment. Please remember this is a work in progress and it currently has no updated graphics.
 
-READMORE
+<!-- READMORE -->
 
 <img src="/images/puck/Puck-New-UI-3.png" width="230" height="346"/>
 

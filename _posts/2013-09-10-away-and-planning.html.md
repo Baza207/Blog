@@ -20,7 +20,7 @@ So I'm currently looking over the amazingly blue sea off of Crete in the last fe
 
 I plan to make this a short post (haha, short), just to say what I'm going to be looking into from now until Christmas and beyond. A basic outline if you will.
 
-READMORE
+<!-- READMORE -->
 
 I managed to get Puck 2.0 out before I left and in time for the Elitserien league starting up again on Sept 14th. I'm going to write a more in depth post later about the new features and my plans for it but I just wanted to say that more leagues will be coming, and soon! I redesigned the backend of Puck so that I can add leagues on my server at will and not have to go though the Apple review process every time. This should hopefully speed up the addition of leagues in the future as I know people want more, ASAP.
 

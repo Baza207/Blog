@@ -21,7 +21,7 @@ Though that doesn't matter to me. I don't make my apps to make loads of money (h
 - Dog Bins was made when my step-mum suggested it would be a good idea for the app, and I took it as a change to learn how to make an app with cloud feature, so I made it using <a href="http://parse.com" target="_blank">Parse</a> for the backend.
 - Puck was made because when I moved to Sweden, I got into Ice Hockey, and I wasn't amazingly impressed by the apps available at the time, so I made my own. It also gave me the chance to learn Python and setup my server, along with push notifications and all that fun stuff.
 
-READMORE
+<!-- READMORE -->
 
 Every app I've made, I've learnt something new on, and that's sort of a conscious decision. So even if the app doesn't make any money, I know I've learned something, something that will helpfully help one day when I make that app that might do well. You never know. I've made quite a few little apps when I've been learning new tech (UIDocument, CoreData, CoreLocation, Beacons, Sockets, etc) that will never see the light of day, but have been fundamental in things that have happened after them.
 

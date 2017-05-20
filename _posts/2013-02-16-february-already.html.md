@@ -28,7 +28,7 @@ So somehow it's February already! How did that happen? I was going to write a po
 
 So what's been going on? Well over Christmas I was working on an update for Puck. I wanted to add live scores to it, which of course means push notifications. This ended taking a little longer than I'd have liked as performance never seemed to be quite good enough. Push notifications in general for an app are one thing if you're just informing the user about updates or features. However, in Puck's case it has to be instant (or as close to it as possible) as it's notifying the use about a live event, score reports. Sadly it's never going to be totally instant due to it going out of my hands as soon as I send the notification request to Apple, but I've done my best to make it as fast as it can be my end.
 
-READMORE
+<!-- READMORE -->
 
 I submitted the new version to Apple for review last week and it's now available on the App Store for download or update. The next step for Puck is a new refined navigation and hopefully more Hockey league. Let me know in the comments if you have any requests for these.
 

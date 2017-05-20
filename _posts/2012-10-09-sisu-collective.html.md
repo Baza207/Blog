@@ -16,6 +16,8 @@ For a little while myself and some friends have been thinking about starting a c
 
 Sisu is a collective of people from different areas of media. As of this time there are 5 people in total (including myself) contributing. <a title="Emilia Buggins" href="http://www.emiliabuggins.com" target="_blank">Emilia Buggins</a>, <a title="Michael Reed" href="http://www.thisisnotaviolin.com" target="_blank">Michael Reed</a>, <a title="Antonia Heslop" href="http://www.antoniaheslop.com" target="_blank">Antonia Heslop</a>, <a title="Christina Jager" href="http://cmjinlondon.blogspot.ca" target="_blank">Christina Jager</a> and <a title="James Barrow" href="http://www.pigonahill.com" target="_blank">James Barrow</a> (me). When we get an initial site up and running we will all get to write a bit about who we are and what we do but for now you can click on there names and go to there web sites.
 
+<!-- READMORE -->
+
 **NOTE:** _Mikee's website 'thisisnotaviolin' is currently under construction and so has a few bugs and no proper font as of writing this. I've put it up however because it still shows what he does._
 
 At the moment we are in the brain storming phases and below I've added some of my ideas in my area of expertise to put into the pot. This next section is mainly aimed at the lovely lovely members of Sisu.

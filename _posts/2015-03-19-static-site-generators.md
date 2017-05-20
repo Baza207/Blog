@@ -20,7 +20,7 @@ I have been using Wordpress since I started my site, I think it must have been b
 
 What is a static site? Static site generators are programs that take templates and content you make and render the content into separate, compiled files. This means, unlike a dynamic site, the content is already created and ready to serve to the requesting web browser, unlike a dynamic site, like Wordpress, that renders the content and creates the web page (in Wordpress’ case using PHP) when and every time it is requested (though obviously facing systems can and are used, but still).
 
-READMORE
+<!-- READMORE -->
 
 This instantly gives me several benefits when using a static site, the most prominent in my eyes is that we get an enormous speed boost. I have never used my blog in a big way, I’ve never managed to keep up a good posting schedule, and it’s always been just me posting. So all of the _mass_ features that Wordpress has, multiple users, massive plugin expandability with a few clicks, I’ve never needed.
 

@@ -17,6 +17,8 @@ So since my last scribblings a lot has been going on. I've finished my degree at
 
 Along with that I've had my first website and first app go live. The website was done for a company called Octavo Pictures and was done in conjunction with one of my graphic design friends Emilia Buggins. Emilia and I have worked together in the past on her website but this was our first joint venture on a site that wasn't for our selves.
 
+<!-- READMORE -->
+
 If you want to take a look it can be found at: <a href="http://www.octavopictures.co.uk" target="_blank">www.octavopictures.co.uk</a>
 
 My first app was 'Pixel Pals' which is a digital pet that you can look after. Its done in the 8-bit classic style and allows you to have a Penguin or a Dinosaur as a pet. I think it's gone really well and this was the app I made for my dissertation, though it has had a lot of changes to it since then. I've also brought out an update for it lately which allows you to wake up your creature to feed it, or send it to sleep if it's tired.

@@ -15,7 +15,7 @@ So over the last few weeks I’ve been on a bit of holiday. Some time away from 
 
 However, I finally got myself an Apple Watch, as I managed to get my hands on one when I was over in the UK (I wanted to see what the colours really looked like) and they also came out in Sweden. So obviously I’ve been trying to make watch apps for my apps, namely Puck and Dog Bins. I thought it might be useful to post some of my findings from playing around with WatchKit in watchOS 1.
 
-READMORE
+<!-- READMORE -->
 
 ### Only send what you need
 You want to limit the amount of data you are handling in your watch extension, either from the main app or from the internet. You don’t want to be sending an array or objects (probably dictionaries) full of key-values that the watch will never need or use.

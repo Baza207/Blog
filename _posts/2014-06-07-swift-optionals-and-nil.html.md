@@ -17,7 +17,7 @@ Optionals are something that I had never heard of before Swift came out. I have
 
 `nil` is something I use on a daily basis, but it's not the same in Swift. It looks like it is, but under the hood, it really isn't. Below I'm going to talk about how Swift deals with optionals, this new way of thinking of `nil` and why I've come to realise and really love this new way of looking at things.
 
-READMORE
+<!-- READMORE -->
 
 In Obj-C if we create a variable, let's say its an NSString, we'd create it with something like the following:
 

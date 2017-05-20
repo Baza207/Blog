@@ -19,7 +19,7 @@ A couple of weeks ago I started getting emails from Jetpack[^1] telling me that 
 
 Now my server isn’t the most powerful one out there. It’s a 2GB Linode VPS[^2] but that should be more than powerful enough to run a simple Wordpress site. A deeper look into it showed me that Apache was using 1.99GB/2.0GB! So there’s the culprit.
 
-READMORE
+<!-- READMORE -->
 
 Apache is what I’ve used since the beginning, since I first got a VPS about 3 years ago. But now it’s stabbed me in the back using up all of my memory. So I scrapped it. 😛 Goodbye Apache, hello Nginx.
 

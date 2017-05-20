@@ -16,7 +16,7 @@ Apple have said to developers since the watch first came out, interaction on the
 
 Where I feel the Apple Watch excels is in passive activities. When I say passive activities, I mean things that the watch just *does*, without input from the user. In my mind such activities range from counting steps and taking heart rate readings over the course of the day to receiving notifications and viewing complications on the Watch face.
 
-READMORE
+<!-- READMORE -->
 
 A little bit of self smartness would be really great when it comes to this type passive activities. When I go out for a run, my watch should be able to tell that I've started exercising and when I've stopped, so it can then ask me "Do you want to save this workout?" without me even having to tell it I started one. This is exactly the type of passive activities that Apple needs to improve upon, and in turn, allow us developers more ways to give our users this type of functionality.
 

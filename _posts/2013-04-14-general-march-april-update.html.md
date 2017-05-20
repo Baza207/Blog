@@ -19,7 +19,7 @@ In fact I've had so much to say that I have 2 more posts written and cued up to 
 
 Anyway, to the updating!
 
-READMORE
+<!-- READMORE -->
 
 I've been working with a company called [Frostlight Solutions](http://www.frostlight.se) lately as a freelance developer. I've worked on several projects and am enjoying it immensely. It's been great to work on projects that I have a specific 'this is what needs to be done' outlines for a project and a deadline. Unlike my own apps where things go as they go and I have no deadlines at all. It does of course mean that my time is split between doing "paid" work and my own stuff and the paid work will always come first, always. But it is great to have some money in the bank which will of course mean I'll have more to invest into my own projects. Finally might have enough to get a decent monitor and stop using my old 19" LG TV.
 

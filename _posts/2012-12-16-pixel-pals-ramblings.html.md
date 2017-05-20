@@ -18,6 +18,8 @@ image: pixel-pals-logo.png
 
 The general idea for Pixel Pals v2.0 is to fix the fundamental problems with the current version and so make it in a "nicer" way. The original version was made over 9 months while I was learning how to code. So it's a complete mess! It's structured wrong (if can call it structured at all) and nearly impossible to add new features to. So the plan for v2.0 is to fix these main to points.
 
+<!-- READMORE -->
+
 ### Navigation and Style
 
 I still really like the general navigation in the app, however I think it can be streamlined a little bit more. I really like the idea of gestures but how I would implement them, I'm not entirely sure. Possibly gestures are more for interacting with your creature than navigating around the app itself. The base of the views themselves though will have to be redone. I want the user to have way more control of the style of the app, to allow the user to personalise it to themselves. The main decision here is to have the cases in the app as graphics (PNG files) or to make the app draw them itself. The first option is easiest but will mean the app will be bigger and give less options to the user. The second option is my preferred one, it'll make the app smaller and allow way more customisation from the user. However it is a lot harder to code. I need to look more into Quartz and CoreAnimation for this.
