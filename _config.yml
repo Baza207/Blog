@@ -17,6 +17,7 @@ title: Pig on a Hill Productions
 description: "iOS App and Swift Development"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pigonahill.com" # the base hostname & protocol for your site, e.g. http://example.com
+main_url: "https://pigonahill.com"
 
 # Auther Details
 author: James Barrow
