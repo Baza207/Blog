@@ -1,0 +1,276 @@
+---
+---
+
+body {
+  background-color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#mian-header,
+#content,
+#article-content,
+#tag-content,
+#pagination,
+footer {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+#content {
+  max-width: 1000px;
+}
+
+article header h2,
+#article-content {
+  padding: 0 125px;
+}
+
+#mian-header img {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-top: -7px;
+}
+
+#mian-header,
+article footer {
+  border-bottom: 1px solid #62aaeb;
+}
+
+#feed {
+  font-size: 12px;
+  float: right;
+}
+
+#main-site-link {
+  text-align: right;
+  margin-top: -24px;
+  padding-bottom: 4px;
+  font-size: 14px;
+}
+
+#article-back {
+  margin-top: -23px;
+  font-size: 16px;
+}
+
+article footer {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+article footer,
+article footer a {
+  color: gray;
+}
+
+#tags {
+  display: inline;
+}
+
+.date,
+.draft {
+  color: #62aaeb;
+  font-size: 16px;
+  vertical-align: baseline;
+}
+
+.draft {
+  color: #CC0000;
+  font-size: 16px;
+  vertical-align: baseline;
+}
+
+.article-date,
+.draft {
+  position: absolute;
+  margin-top: -40px;
+}
+
+.tagDate {
+  font-size: 12px;
+  float: right;
+}
+
+.featured-image {
+  position: absolute;
+  margin-top: 50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 20%;
+}
+
+article header h2,
+#tag-content header h2 {
+  color: #59434F;
+  font-weight: normal;
+  /*line-height: 2;*/
+}
+
+div .iOS-screen-shot,
+div .watchOS-screen-shot {
+  width: 100%;
+  text-align: center;
+}
+
+.iOS-screen-shot img,
+.watchOS-screen-shot img {
+  margin: 2px auto;
+}
+
+.iOS-screen-shot img {
+  width: 240px;
+  height: 427px;
+}
+
+.watchOS-screen-shot img {
+  width: 140px;
+  height: 175px;
+}
+
+footer {
+  color: #59434F;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#comments {
+  padding-top: 20px;
+}
+
+#pagination {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#pagination .previous {
+  float: left;
+}
+
+#pagination .next {
+  float: right;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(140,140,140,0.4);
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 58px;
+  border-radius: 20%;
+}
+
+#back-to-top a {
+  color: white;
+}
+
+a {
+  color: #59434F;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+a:hover {
+  color: #62aaeb;
+  text-decoration: underline;
+}
+
+#article-content {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+#article-content a,
+article header a:hover,
+.read-more a:hover,
+#tags a,
+#tag-content a:hover {
+  text-decoration: underline;
+}
+
+header a:hover,
+#article-back a:hover,
+article header a,
+#article-content a:hover,
+.read-more a,
+#tags a:hover,
+#tag-content a {
+  text-decoration: none;
+}
+
+header a,
+#article-back a,
+article header a:hover,
+.read-more a,
+a:hover i#feed {
+  color: #62aaeb;
+}
+
+#main-site-link a:hover,
+#article-back a:hover,
+article header a,
+.read-more a:hover,
+a i#feed {
+  color: #59434F;
+}
+
+@media (max-width: 750px) {
+  header h1 {
+    font-size: 1.6em;
+    padding-right: 32px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+  }
+
+  #main-site-link {
+    margin-top: -6px;
+    padding-right: 4px;
+  }
+
+  #article-back {
+    text-align: left;
+    margin-top: -23px;
+  }
+
+  .featured-image {
+    margin-top: 0px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .article-date,
+  .draft {
+    position: relative;
+    margin-left: 10px;
+  }
+
+  .tagDate {
+    padding-right: 20px;
+  }
+
+  article header h2,
+  #article-content {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 4px;
+  }
+
+  article header h2 {
+    padding-right: 70px;
+  }
+
+  #feed {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+  }
+
+  footer {
+    padding-bottom: 80px;
+  }
+}
