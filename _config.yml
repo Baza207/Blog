@@ -33,6 +33,10 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: post
+  - scope:
+      path: "assets/featured-images"
+    values:
+      image: true
 
 # Build settings
 markdown: kramdown
