@@ -1,5 +1,5 @@
 <head>
-    {% if site.title and paginator.total_pages > 1 %}
+    {% if site.title and paginator.page > 1 %}
     <title>{{ site.title }} | Blog - Page {{ paginator.page }}</title>
     {% else site.title %}
     <title>{{ site.title }} | Blog</title>
