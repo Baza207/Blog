@@ -28,6 +28,12 @@ github_username:  Baza207
 # General
 timezone: Europe/Stockholm
 
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: post
+
 # Build settings
 markdown: kramdown
 theme: minima
