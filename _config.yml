@@ -14,17 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pig on a Hill Productions
-email: james@pigonahill.com
 description: > # this means to ignore newlines until "baseurl:"
   iOS App and Swift Development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pigonahill.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Auther Details
+author: James Barrow
+email: james@pigonahill.com
 twitter_username: PigonaHill
 github_username:  Baza207
 
-author: James Barrow
-
+# General
 timezone: Europe/Stockholm
 
 # Build settings
