@@ -41,7 +41,7 @@ layout: home
         <sub class="tags">
             Tags:
             {% for tag in post.tags %}
-            <a href="tags#{{ tag | cgi_escape }}">{{ tag | escape }}</a>
+            <a href="{{ site.base }}/tags#{{ tag | cgi_escape }}">{{ tag | escape }}</a>
             {% endfor %}
         </sub>
     </footer>
