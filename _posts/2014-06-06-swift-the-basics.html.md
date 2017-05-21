@@ -1,13 +1,10 @@
 ---
-layout: post
 title: Swift, The Basics
-author: James Barrow
 date: 2014-06-06
 tags:
-- apple
-- basics
-- swift
-- tutorial
+- Apple
+- Swift
+- Tutorial
 image: swift-logo.jpg
 ---
 
@@ -123,4 +120,4 @@ Next time I'm going to go into a few of the features I've enjoyed and liked bein
 
 For any of the sessions from WWDC 2014 find them at: <a herf="https://developer.apple.com/videos/wwdc/2014/" target="_blank">developer.apple.com/videos/wwdc/2014/</a>
 
-Also check out the excellent book that Apple released that goes though the Swift language in a lot of detail: <a herf="https://itunes.apple.com/se/book/swift-programming-language/id881256329?l=en&amp;mt=11 target="_blank">Swift Programming Language</a>
+Also check out the excellent book that Apple released that goes though the Swift language in a lot of detail: <a herf="https://itunes.apple.com/se/book/swift-programming-language/id881256329?l=en&amp;mt=11" target="_blank">Swift Programming Language</a>

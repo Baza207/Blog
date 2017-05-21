@@ -1,21 +1,13 @@
 ---
-layout: post
 title: Up and Coming
-autor: James Barrow
 date: 2012-06-20
 tags:
-- apps
-- colour-cubes
-- coming-soon
-- dog-bins
-- drawing-drop
-- ios
-- james-barrow
-- mac-os-x
-- pig-on-a-hill
-- pixel-pals
-- upcoming
-- v2-0
+- Colour Cubes
+- Dog Bins
+- Drawing Drop
+- iOS
+- OS X
+- Pixel Pals
 ---
 
 I had to split up  and initial post "[A bit of a catch up...](/2012/a-bit-of-a-catch-up)" because it was too long. So here's the part about what I've got planned for the next couple of months. Enjoy!

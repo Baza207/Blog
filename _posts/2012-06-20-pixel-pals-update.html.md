@@ -1,21 +1,10 @@
 ---
-layout: post
 title: Pixel Pals Update
-author: James Barrow
 date: 2012-06-20
 tags:
-- app-store
-- apps
-- coming-soon
-- dissertation
-- ios
-- ipad
-- iphone
-- ipod
-- pig-on-a-hill
-- pixel-pals
-- upcoming
-- v2-0
+- Dissertation
+- iOS
+- Pixel Pals
 image: pixel-pals-logo.png
 ---
 

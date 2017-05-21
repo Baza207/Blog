@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Apache Woes, Hello Nginx!
-author: James Barrow
 date: 2015-03-18
 tags:
-- nginx
-- apache
-- wordpress
-- web servers
-- web
-- servers
-- php
-- php-fastcgi
+- Nginx
+- Apache
+- WordPress
+- Server
+- PHP
 image: nginx-logo.png
 ---
 

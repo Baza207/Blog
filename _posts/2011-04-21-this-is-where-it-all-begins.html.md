@@ -1,15 +1,9 @@
 ---
-layout: post
 title: This is where it all begins!
-author: James Barrow
 date: 2011-04-21
 tags:
-- app
-- apps
-- coming-soon
-- dissertation
-- ios
-- pig-on-a-hill
+- Dissertation
+- iOS
 ---
 
 So what an active couple of months it's been! I've been working solidly to finish my degree (main part of which is my dissertation) and I'm finally nearly there. I handed in my write up yesterday and only have a few exams and one piece of coursework left. Scary times ahead, but I have plenty of projects to keep me busy.

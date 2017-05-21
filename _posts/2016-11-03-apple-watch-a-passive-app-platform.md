@@ -1,6 +1,6 @@
 ---
 title: Apple Watch - A Passive App Platform
-date: 2016-11-03 00:00:00 +0200
+date: 2016-11-03
 tags:
 - Apple Watch
 - watchOS

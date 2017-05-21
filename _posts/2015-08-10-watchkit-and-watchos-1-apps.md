@@ -1,13 +1,10 @@
 ---
-layout: post
 title: WatchKit and watchOS 1 Apps
-author: James Barrow
 date: 2015-08-10
 tags:
 - watchOS
 - WatchKit
 - Apple Watch
-published: true
 image: watchkit-logo.png
 ---
 
@@ -31,9 +28,9 @@ This was the source of many issues I was having. I knew why it was doing it, but
 
 **Note:** Ok, so sometimes you do need to hand off network request to the main app, but my point is, do it very sparingly. 
 
-Watch extension -> Internet -> watch extension  
+Watch extension → Internet → watch extension  
 is always going to be better than  
-Watch extension -> main app -> internet -> main app -> watch extension.
+Watch extension → main app → internet → main app → watch extension.
 
 ### Run network request in the Watch extension
 Why not? You can even think of your watch extension as being a completely different app, in fact, you *should* think of it that way. It can still share the same code with you main iOS app with Frameworks obviously. And this is actually what they were introduced to do with iOS 8 and extensions (today, action, share, keyboard, etc). But again, this is another point that will become more obvious when you start to think about watchOS 2, as then your watch extension will be running on the watch itself. Give it it’s independence, let it explore the world on it’s own.

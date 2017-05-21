@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Sisu Collective
-author: James Barrow
 date: 2012-10-09
 tags:
-- coming-soon
-- sisu
+- Sisu
 ---
 
 For a little while myself and some friends have been thinking about starting a collective of people to work on different projects together. It's an awesome idea and its starting to get moving now as well, which is even better! The idea is being led by <a href="http://www.emiliabuggins.com">Emilia Buggins</a> who I have worked with quite a lot in the past (pretty much all the web sites I've done have been with her, bar my own, and she's responsible for my original Pig on a Hill logo).

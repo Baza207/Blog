@@ -1,16 +1,10 @@
 ---
-layout: post
 title: First Up and Live
-author: James Barrow
 date: 2011-10-22
 tags:
-- app-store
-- apps
-- ios
-- ipad
-- iphone
-- ipod
-- pixel-pals
+- Web
+- iOS
+- Pixel Pals
 ---
 
 So since my last scribblings a lot has been going on. I've finished my degree at Oxford Brookes Uni getting a 1st Class Honours in Sound Technology and Digital Music. It all feels a bit weird that I'm all finished and done with Uni now, the last 3 years have just gone so fat. It's one of those thing people tell you when you start, but you never believe them.

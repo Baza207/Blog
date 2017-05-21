@@ -1,14 +1,11 @@
 ---
-layout: post
 title: State of Play, Mid 2015
-author: James Barrow
 date: 2015-05-22
 tags:
-- pixel pals
-- colour cubes
-- dog bins
-- puck
-- update
+- Pixel Pals
+- Colour Cubes
+- Dog Bins
+- Puck
 image: poah-logo.png
 ---
 
@@ -34,7 +31,7 @@ If you want to jump to any particular app that you're interested in, I've added 
 - [Dog Bins](#dog-bins)
 - [Puck](#puck)
 
-##Pixel Pals
+## Pixel Pals
 Pixel Pals is still the app that sells, consistently. Not a lot, but there's always at least 1/2 sales a week, which always makes me happy. Especially as it's an app that hasn't gotten a proper update since the end of Match 2012[^1]. I have loads of plans for PP, the issue is time, though mainly logic.
 
 The logic for the original game was, how can I say this... poor. It was my first ever app, and it was a crazy app for my first one. Kid's make your first apps simple. DO NOT try and make something like Pixel Pals. I learnt a lot, and in quite a small space of time, but with any code that's more than 8 months older, or more, it makes me want to cry when I look at how I did some things. So one of the fundamental features in a 2.0 version is to re-do the underlying logic.
@@ -47,19 +44,19 @@ One day I will get my head around it, one day I will not be thinking about a mil
 
 Any feature I've previously talked about for PP 2.0 are still completely on the table. More pets, more mini games, etc, just maybe with a few tweaks after 2+ years thinking about it in the back of my mind.
 
-##Colour Cubes
+## Colour Cubes
 Colour Cubes was always a fun little thing I did to test myself, that ended up becoming something I released. If you look at it now, it looks like pants. Though, the logic is pretty solid. I've been thinking lately about seeing if I can clean it up, revamp the whole design to something much cleaner, and maybe add a few features.
 
 I had, a little while ago, an idea of how to make CC multiplayer, something I'm still interesting at coming back to. I've have a good few pages in a notebook from a year or so back that lays out how it could be done, logic wise, in some detail. Again, this being quite an old project now, its really needs a re-write (probably in Swift as well) but I feel it has the possibility of having something done to it at some point.
 
 There is another thing with CC, because it's based on what is basically a square of squares, it's made me very interested to see if I could make it work on the Apple Watch. Obviously the higher levels of difficulty wouldn't work as the hit boxes for each cube would be too small, but maybe. Either way I think I'm going to wait on that particular point until, at least, after WWDC 2015. Let's see what more we get, as developers, for the Apple Watch this year, then we'll see.
 
-##Dog Bins
+## Dog Bins
 Dog Bins was my first foray into working with a cloud based backend system. I learned a lot that I now take for granted from it, async processes probably being a big one. However, after the last big update, it fell prey to my lack of time. There's enhancements I want to make to it, fixes that are needed and other things that could be improved... but time.
 
 Dog Bins out of all my apps falls into it's own category of being a free app. It has ads in it yes, and in app purchase to remove those ads, however, they make nothing. It has a decent user base, and the community has nearly logged 300 dog bins, which is awesome. However in the last year it has had 200 installs, though iAds have made $0.70 and in app purchases came to $0.71. That's after Apple takes there stuff but before any tax. In short terms, it's nothing, and sadly that's something that bumps it down the list of priorities.
 
-##Puck
+## Puck
 Puck was the app where I learned how to code in Python on a server (along with setting up and maintaining that server, to a degree) and dealing with push notifications. I was my test case when Swift came out last year at WWDC 2014 to dive into Apple's new programming language. And that was also what made it instantly clear, that Swift was not ready when it was released to remake a whole app in it. Now however with Swift 1.2, I feel like it is and so I've gone back to what I started on with re-writing Puck in Swift all those months ago.
 
 However, because of the nature of how much Swift has changed, and with how much I've learned since then on how you should do things in Swift compared to Obj-C, it needs to be pretty much scrapped and started again.
@@ -70,7 +67,7 @@ Again, Puck is another perfect candidate for an Apple Watch application, more so
 
 I do feel Puck is the app that I expect an update being released for soonest, and I do now have the summer break before the new season begins to get this done in. But we will have to see. Like in all of my apps, I have lots ideas I want to add or improve on existing features, it's just finding the time to do so.
 
-##So to sum up...
+## So to sum up...
 Time, time, time... I think that pretty much sums it up. I've got lot of ideas, and even though 4 apps doesn't sound a lot, when there's just one of you, 4 apps becomes a lot to go though. You can say that I've kind of shot myself in the foot by leaving some of them for a while, and so making the workload more, but sadly that's just the way it is.
 
 As always, if I have any more updates as time goes on, I will try and post them here, but I hope this answers any questions, even though it might not answer them in the way you wanted.

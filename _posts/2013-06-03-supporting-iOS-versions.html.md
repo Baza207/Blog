@@ -1,20 +1,11 @@
 ---
-layout: post
 title: Supporting iOS Versions
-author: James Barrow
 date: 2013-06-03
 tags:
-- apple
-- backwards-support
-- compatibility
-- ios
-- ios4
-- ios5
-- ios6
-- ios7
-- obj-c
-- support
-- wwdc
+- Apple
+- iOS
+- Objective-C
+- WWDC
 ---
 
 Lately there's been a lot of talk with backwards compatibility, both in my work and in the press due to the new gen consoles we've seen. At work most people and clients go for iOS 5 being the minimum iOS version to support these days. This seems natural with the speed people seem to be moving over to the latest versions of operating systems due to them being delivered over the air, and in he case of iOS, being free. However in my own personal projects I have always tried to support the oldest version I can, that being iOS 4.3 (as of writing this post). Though lately, working on new versions of some of my apps I've gone for iOS 5 as a minimum.

@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Game Engines and Polycode
-author: James Barrow
 date: 2013-05-31
 tags:
-- c
-- cpp
-- coming-soon
-- frameworks
-- game-engines
-- lua
-- lua
-- polycode
+- C
+- C++
+- Framework
+- Game Engine
+- Lua
 image: polycode-logo.png
 ---
 

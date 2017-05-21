@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Help Wanted!
-author: James Barrow
 date: 2012-09-07
 tags:
-- app
-- apps
-- help-wanted
-- hire
-- james-barrow
-- jobs
-- jonkoping
-- pig-on-a-hill
-- upcoming
+- Jobs
 image: poah-retro-logo.png
 ---
 

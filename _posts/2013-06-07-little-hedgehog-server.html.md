@@ -1,20 +1,12 @@
 ---
-layout: post
 title: Little Hedgehog Server
-author: James Barrow
 date: 2013-06-07
 tags:
-- coming-soon
-- github
-- lhs
-- little-hedgehog-server
-- open-source
-- pig-on-a-hill
-- puck
-- py
-- python
-- server
-- twisted
+- GitHub
+- Little Hedgehog
+- Puck
+- Python
+- Server
 image: lh-logo.png
 ---
 

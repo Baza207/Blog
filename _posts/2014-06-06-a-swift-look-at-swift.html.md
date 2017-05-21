@@ -1,16 +1,13 @@
 ---
-layout: post
 title: A swift look at Swift
-author: James Barrow
 date: 2014-06-06
 tags:
-- apple
-- ios
-- mac-os-x
-- osx
-- swift
-- tutorial
-- wwdc
+- Apple
+- iOS
+- OS X
+- Swift
+- Tutorial
+- WWDC
 image: swift-logo.jpg
 ---
 
@@ -43,4 +40,4 @@ It's the little bits that make the difference
 
 For any of the sessions from WWDC 2014 find them at: <a herf="https://developer.apple.com/videos/wwdc/2014/" target="_blank">developer.apple.com/videos/wwdc/2014/</a>
 
-Also check out the excellent book that Apple released that goes though the Swift language in a lot of detail: <a herf="https://itunes.apple.com/se/book/swift-programming-language/id881256329?l=en&amp;mt=11 target="_blank">Swift Programming Language</a>
+Also check out the excellent book that Apple released that goes though the Swift language in a lot of detail: <a herf="https://itunes.apple.com/se/book/swift-programming-language/id881256329?l=en&amp;mt=11" target="_blank">Swift Programming Language</a>

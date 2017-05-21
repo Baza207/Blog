@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Many many things to do...
-author: James Barrow
 date: 2011-03-03
 tags:
-- apps
-- ios
-- pig-on-a-hill
-- uni
-- university
+- iOS
+- University
 ---
 
 Well got to start this blog somewhere I suppose. First thing to say is that the spelling in all of this will be awful because I'm dyslexic and probably will be writing these fast, off the top of my head type of stuff. 😄

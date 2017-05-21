@@ -4,14 +4,8 @@ title: Major Puck update under development
 author: James Barrow
 date: 2013-04-15
 tags:
-- apps
-- coming-soon
-- hockey
-- ice-hockey
-- ios
-- ishockey
-- pig-on-a-hill
-- puck
+- Puck
+- iOS
 image: puck-2-logo.png
 ---
 
@@ -21,7 +15,7 @@ I have been planning to add more Hockey Leagues into the app for a while now and
 
 <!-- READMORE -->
 
-<img src="/images/puck/Puck-New-UI-3.png" width="230" height="346"/>
+<img src="/assets/puck/Puck-New-UI-3.png" width="230" height="346"/>
 
 I'm also refining the backend to handle multiple leagues because at the moment it goes a little crazy when the internet connection is dodgy. It's currently at one of those stages where I fix one problem and break everything else that was working before the fix. What I want to be able to do is set it up so that I can handle, theoretically, an unlimited number of leagues. So when I add a new league on my server, I don't have to update the app though Apple. This means of course instead of waiting a couple of weeks for Puck to go through the review process with each new league I add, it can be pretty much instantly.
 

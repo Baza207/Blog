@@ -1,16 +1,13 @@
 ---
-layout: post
 title: Static Site Generators
-author: James Barrow
 date: 2015-03-19
 tags:
-- static site
-- middleman
-- blog
-- ruby
-- nginx
-- wordpress
-- disqus
+- Blog
+- Middleman
+- Ruby
+- Nginx
+- WordPress
+- Disqus
 image: middleman-logo.png
 ---
 

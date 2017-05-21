@@ -1,15 +1,9 @@
 ---
-layout: post
 title: So much for an early night...
-author: James Barrow
 date: 2011-03-09
 tags:
-- app
-- apps
-- ios
-- pig-on-a-hill
-- uni
-- university
+- iOS
+- University
 ---
 
 So I get into bed at 9pm this evening and am just dozing off. Finally an early night, nothing going through my brain for once apart from the tv show I was watching. Well there it is, have to turn that off don't I. Oh and I left my washing in the machine. If I don't put that in they dryer now, then they're going to smell of damp tomorrow and it's such a waste to have to wash them again! By the time I've finally got back into bed it's 11.30pm and I have a million and one things in my head again and I can't fall asleep.

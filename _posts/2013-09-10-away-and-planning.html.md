@@ -1,19 +1,12 @@
 ---
-layout: post
 title: Away and Planning
-author: James Barrow
 date: 2013-09-10
 tags:
-- apps
-- colour-cubes
-- dog-bins
-- holiday
-- ios
-- ios-7
-- pig-on-a-hill
-- pixel-pals
-- plans
-- puck
+- Colour Cubes
+- Dog Bins
+- iOS
+- Pixel Pals
+- Puck
 ---
 
 So I'm currently looking over the amazingly blue sea off of Crete in the last few days of my honeymoon, and starting to think about all the things I have waiting for me when I get back. Don't get me wrong, I've got a lot of plans and exciting ones at that, but relaxing here in the sun after going full pace for so long has been very nice.

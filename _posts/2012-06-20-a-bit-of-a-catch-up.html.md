@@ -4,16 +4,10 @@ title: A bit of a catch up...
 author: James Barrow
 date: 2012-06-20
 tags:
-- apps
-- colour-cubes
-- coming-soon
-- ios
-- james-barrow
-- pig-on-a-hill
-- pixel-pals
-- upcoming
-- web
-- website
+- Colour Cubes
+- iOS
+- Pixel Pals
+- Website
 ---
 
 I started writing this post and have just realised, its way to long for a single post. So I have split it into 3 separate parts:

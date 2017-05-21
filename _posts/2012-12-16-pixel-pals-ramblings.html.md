@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Pixel Pals Ramblings
 date: 2012-12-16
 tags:
-- apps
-- coming-soon
-- ios
-- pig-on-a-hill
-- pixel-pals
-- v2-0
+- iOS
+- Pixel Pals
 image: pixel-pals-logo.png
 ---
 

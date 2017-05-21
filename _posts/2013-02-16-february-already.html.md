@@ -4,24 +4,12 @@ title: February Already?!
 author: James Barrow
 date: 2013-02-16
 tags:
-- app
-- apps
-- coming-soon
-- elitserien
-- hockey
-- ice
-- ice-hockey
-- ios
-- ishockey
-- little-hedgehog-engine
-- mac-os-x
-- pig-on-a-hill
-- pixel-pals
-- pp2
-- puck
-- v2-0
-- vlog
-- youtube
+- Elitserien
+- iOS
+- Little Hedgehog
+- OS X
+- Pixel Pals
+- Puck
 ---
 
 So somehow it's February already! How did that happen? I was going to write a post hoping everyone had a good Christmas and New Year but I feel it's possibly a little bit late now.

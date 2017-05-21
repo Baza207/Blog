@@ -4,13 +4,9 @@ title: General March/April Update
 author: James Barrow
 date: 2013-04-14
 tags:
-- frostlight
-- linode
-- partners
-- pig-on-a-hill
-- server
-- update
-- writers-block
+- Frostlight
+- Linode
+- Server
 ---
 
 So I think I can safely say this week has, felt at least, the most unproductive I’ve had for a long time. I hit a wall with updating Puck and Pixel Pals 2 so as the week is now finished and I think I’ve finally got my brain together I thought I’d write a post to talk about what’s been going on.
