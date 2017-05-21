@@ -50,6 +50,10 @@ sass:
 paginate: 10
 paginate_path: "/page-:num"
 
+# Disqus Comments
+disqus:
+    shortname: pigonahill
+
 # Build settings
 markdown: kramdown
 theme: minima
