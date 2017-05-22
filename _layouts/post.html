@@ -22,7 +22,7 @@ layout: default
             Author: <span class="h-card p-author">{{ site.author }}</span>
         </sub>
         </br>
-        <sub class="tags">
+        <sub id="tags">
             Tags:
             {% for tag in page.tags %}
             <a href="{{ site.base }}/tags#{{ tag | cgi_escape }}">{{ tag | escape }}</a>
