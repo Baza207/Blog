@@ -1,0 +1,12 @@
+# robots.txt file for pigonahill.com created by Pig on a Hill Productions
+
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /assets/
+Disallow: /fonts/
+
+# Optional sitemap URL:
+# Sitemap: https://blog.pigonahill.com/sitemap.xml
+
+# End robots.txt file
