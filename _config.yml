@@ -63,5 +63,6 @@ gems:
 exclude:
     - Gemfile
     - Gemfile.lock
+    - vendor # For Travis.ci builds
 keep_files: 
     - .well-known
