@@ -60,6 +60,7 @@ theme: minima
 gems:
     - jekyll-feed
     - jekyll-json-feed
+    - jekyll-sitemap
     - jekyll-paginate
 exclude:
     - Gemfile
