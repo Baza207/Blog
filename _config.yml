@@ -61,6 +61,7 @@ gems:
     - jekyll-feed
     - jekyll-json-feed
     - jekyll-sitemap
+    - jekyll-last-modified-at
     - jekyll-paginate
 exclude:
     - Gemfile
