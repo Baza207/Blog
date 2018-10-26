@@ -274,3 +274,36 @@ a i#feed {
     padding-bottom: 80px;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #cccccc;
+    background-color: #333333;
+  }
+
+  article footer,
+  article footer a {
+    color: gray;
+  }
+
+  article header h2,
+  #tag-content header h2 {
+    color: #858585;
+  }
+
+  footer {
+    color: #525252;
+  }
+
+  a {
+    color: #858585;
+  }
+
+  #main-site-link a:hover,
+  #article-back a:hover,
+  article header a,
+  .read-more a:hover,
+  a i#feed {
+    color: #858585;
+  }
+}
